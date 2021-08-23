@@ -1,3 +1,3 @@
 console.log("This file will be deleted with hotfix.");
 
-console.log("some parameter is c8abd7802dd445db9fd88ee7a06cf268.");
+console.log("some parameter is e551e92b84c5b17ab496fcede6f2710f.");
